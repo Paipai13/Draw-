@@ -16,9 +16,9 @@ body {
 }
 
 canvas{
-  border:  10px solid #513906;
+  border:10px solid #513906;
   width: 800px;
-  height:800px;
+  height: 800px;
 }
 
 .toolbox{
@@ -49,6 +49,7 @@ canvas{
     border: 10px solid #513906;
     width: 300px;
     height:500px;
+    
 }
   .toolbox{
     background-color: #513906;
@@ -73,3 +74,4 @@ canvas{
 .toolbox > *:last-child{
     margin-left: auto;
 }
+
